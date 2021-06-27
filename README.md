@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me newforcard@gmail.com
 
-<!---
-tuonghoanger/tuonghoanger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Some nasal issues put me into this tech field . Hopefully to get to work with you guys . 
